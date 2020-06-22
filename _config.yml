@@ -7,7 +7,7 @@ description: "Terry的博客"
 keyword: "realTerry, realTerry的博客"
 url: "http://realterryxd.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/RainbomSea/RainbomSea.github.io.git" #code repository | 代码仓库
+github_repo: "https://github.com/realTerryXD/realTerryXD.github.io" #code repository | 代码仓库
 
 
 # Sidebar settings | 侧边栏设置
