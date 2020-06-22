@@ -60,7 +60,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    # 是否开启Gitalk评论
+  enable: false    # 是否开启Gitalk评论
   clientID:     4101e9a11f88545ee9b6                        #生成的clientID
   clientSecret: 1d10a62f76cc4c4cc67009f202f37cdd0bc0f4cd    #生成的clientSecret
   repo: https://github.com/realTerryXD/realTerryXD.github.io    #仓库名称
